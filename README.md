@@ -52,7 +52,7 @@ python app.py
 - The `yolov8s.pt` file contains the pre-trained YOLOv8 model weights. You can replace it with a different model if desired.  
 
 
-## Contributing  
+## Contribution  
 Contributions to improve Distant Measurer via Webcam are welcome. Please feel free to fork the repository and submit pull requests.  
 
 
